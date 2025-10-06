@@ -1,4 +1,4 @@
-#Görüntüden RGB Değerlerini Okuma Uygulaması
+# Görüntüden RGB Değerlerini Okuma Uygulaması
 Bu proje, C# Windows Forms kullanılarak geliştirilmiş bir basit görüntü işleme uygulamasıdır.  
 Kullanıcı bir resmi yükleyebilir ve seçilen görüntüdeki piksellerin **RGB (Red, Green, Blue)** renk değerlerini görebilir.  
 Proje, temel görüntü işleme ve renk analizi kavramlarını anlamayı amaçlamaktadır.
